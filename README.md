@@ -26,15 +26,23 @@ My Neovim configuration
 ## Linux/Mac OS (Unix)
 
 **Make a backup of your current nvim and shared folder**
-`mv ~/.config/nvim ~/.config/nvim.bak
-mv ~/.local/share/nvim ~/.local/share/nvim.bak`
+
+```bash
+mv ~/.config/nvim ~/.config/nvim.bak
+mv ~/.local/share/nvim ~/.local/share/nvim.bak
+```
 
 **Clone the repository**
-`git clone --depth 1 https://github.com/tienpm/nvim-config ~/.config/nvim
-nvim`
+
+```bash
+git clone --depth 1 https://github.com/tienpm/nvim-config ~/.config/nvim
+```
 
 **Get Gemini API Key and export into terminal**
-`GEMINI_API_KEY="<YOUR_GEMINI_API_KEY>"`
+
+```bash
+GEMINI_API_KEY="<YOUR_GEMINI_API_KEY>"
+```
 
 ## Window
 
