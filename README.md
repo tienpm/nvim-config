@@ -33,6 +33,9 @@ mv ~/.local/share/nvim ~/.local/share/nvim.bak`
 `git clone --depth 1 https://github.com/tienpm/nvim-config ~/.config/nvim
 nvim`
 
+**Get Gemini API Key and export into terminal**
+`GEMINI_API_KEY="<YOUR_GEMINI_API_KEY>"`
+
 ## Window
 
 - Not support yet
