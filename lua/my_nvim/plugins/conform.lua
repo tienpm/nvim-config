@@ -12,7 +12,7 @@ return {
 				css = { "prettier" },
 				html = { "prettier" },
 				json = { "prettier" },
-				yaml = { "yamlfmt" },
+				-- yaml = { "yamlfmt" },
 				markdown = { "prettier" },
 				graphql = { "prettier" },
 				lua = { "stylua" },

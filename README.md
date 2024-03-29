@@ -12,6 +12,7 @@ My Neovim configuration
 - Syntax highlighting with [Nvim Treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 - Formating and linting with Mason [mason](https://github.com/williamboman/mason.nvim)
 - Language Server Protocol with [nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+- Gemini code hint [gemini.nvim](https://github.com/kiddos/gemini.nvim)
 - Debug Adapter Protocol with []()
 
 # Requirements
